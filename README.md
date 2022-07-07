@@ -1,6 +1,8 @@
 # CAST-Highlight-Foundation-Certification
 
  This File Consist of Few Notes Which are taken from Course Videos from Youtube.
+ This can have typo's or few wrong assumptions, It is just a note according to my understanding.
+ Happy to have contributors on this.
 
 ### Section I : Overview & Introduction
 	  - Benifits of CAST Highlight#
